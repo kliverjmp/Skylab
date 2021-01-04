@@ -216,3 +216,7 @@ footer p {
     text-decoration: none;
     font-size: 2rem;
     margin-right: 1rem; } }
+form{
+  font-size: 20px;
+  margin: 4px;
+}
